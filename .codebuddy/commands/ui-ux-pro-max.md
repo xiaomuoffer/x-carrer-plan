@@ -1,0 +1,1 @@
+调用 /Users/wangshuxiong/Documents/trae_projects/demo/.claude/skills/ui-ux-pro-max-plus
